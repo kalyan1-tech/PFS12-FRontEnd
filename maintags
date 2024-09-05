@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=,, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <div class="container">
+    <h1> heading tags:heading1</h1>
+    <h2>heading2</h2>
+    <h3>heading3</h3>
+    <h4>heading4</h4>
+    <h5>heading5</h5>
+    <h6>heading6</h6>
+    <p>this is para</p>
+    <a href="https://www.google.com/search?q=codegnan&sca_esv=1bc5ef0ecf8e9d09&sca_upv=1&rlz=1C1RXQR_enIN1120IN1120&sxsrf=ADLYWIJ9mlULK_ymr82_NGkVCwnhUxv8pQ%3A1725430925151&ei=jfzXZpH2COe64-EP0vmT8QI&oq=&gs_lp=Egxnd3Mtd2l6LXNlcnAiACoCCAAyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyBxAjGCcY6gIyExAAGIAEGEMYtAIYigUY6gLYAQEyExAAGIAEGEMYtAIYigUY6gLYAQEyExAAGIAEGEMYtAIYigUY6gLYAQEyExAAGIAEGEMYtAIYigUY6gLYAQEyExAAGIAEGEMYtAIYigUY6gLYAQEyHBAuGIAEGEMYtAIYxwEYyAMYigUY6gIYrwHYAQIyHBAuGIAEGEMYtAIYxwEYyAMYigUY6gIYrwHYAQIyHBAuGIAEGEMYtAIYxwEYyAMYigUY6gIYrwHYAQIyHBAuGIAEGNEDGEMYtAIYxwEYyAMYigUY6gLYAQJIrBBQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAPgBAZgCAaACDqgCE5gDDroGBggBEAEYAboGBggCEAEYCJIHATGgBwA&sclient=gws-wiz-serp">codegnan</a>
+    </div>
+    <img src="./codegnanlogo.jpeg"alt=codetgnan logo/>
+    
+</hr>
+
+    <button>click here</button>
+    <br/><br/>
+    <div>
+        division:div is a block level element
+    </div>
+    <span>
+         span:span is a inline element
+    </span>
+    <br/><br/>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia possimus cupiditate doloremque, reprehenderit recusandae tempore impedit ratione tempora, porro excepturi necessitatibus adipisci vitae, suscipit facilis amet veniam vero ea fugit?</p>
+   </div> 
+</body>
+</html>
